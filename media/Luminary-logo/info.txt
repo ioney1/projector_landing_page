@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: FARRAY
+font link: https://www.dropbox.com/s/qfeit6m8yssxaod/FARRAY.zip
+font author: Adrien Coquet
+font author site: http://www.adrien-coquet.com/
+Slogan Font: Renner-Thin.otf
+
+icon designer: Edward Boatman
+icon designer link: /edward
+        
+{"bg-gradient-0":"#1E0B36","bg-gradient-1":"#CA3782","icon":"#ffffff","font":"#ffffff","slogan":"#ffffff"}
+      
